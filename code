@@ -1,5 +1,5 @@
 
-sudo apt install npm
+sudo apt install 
 
 npm install -g yarn 
 
