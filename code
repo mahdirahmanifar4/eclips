@@ -77,7 +77,7 @@ cd example-helloworld
 npm install
 
 
-کد پایین ممکنه طول بکشه حتی ۵ دقیقه پس ت ااتمام صبر کنید
+کد پایین ممکنه 
 
 npm run build:program-rust
 
