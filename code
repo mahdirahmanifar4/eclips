@@ -76,7 +76,7 @@ cd example-helloworld
 npm install
 
 
-کد پایین ممکنه 
+
 
 npm run build:program-rust
 
