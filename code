@@ -33,7 +33,6 @@ sudo apt-get update
 
 sudo apt-get install
 
-
 npm install --global yarn
 
 git clone https://github.com/Eclipse-Laboratories-Inc/testnet-deposit
