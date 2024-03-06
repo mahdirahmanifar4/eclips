@@ -58,7 +58,6 @@ cd example-helloworld
 
 npm install
 
-
 npm run build:program-rust
 
 
