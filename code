@@ -1,5 +1,5 @@
 
-npm install -g yar
+npm install -g ya
 
 apt install cargo
 
